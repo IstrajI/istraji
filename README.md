@@ -1,4 +1,4 @@
-### Hi there 👋
+### Good day fellas 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=istraji&include_all_commits=true&show_icons=true&theme=dracula&hide=stars,contribs)](https://github-readme-stats.vercel.app/api?username=istraji&include_all_commits=true&show_icons=true&theme=dracula&hide=stars,contribs)
 
 <div id="badges">
