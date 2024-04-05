@@ -1,6 +1,6 @@
 ### Wazap 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats-istrajis-projects.vercel.app/api?username=istraji&include_all_commits=false&show_icons=true&theme=dracula&hide=stars,contribs)](https://github-readme-stats-istrajis-projects.vercel.app/api?username=istraji&include_all_commits=false&show_icons=true&theme=dracula&hide=stars,contribs)
+[![Anurag's GitHub stats](https://github-readme-stats-istrajis-projects.vercel.app/api?username=istraji&include_all_commits=true&show_icons=true&theme=dracula&hide=stars,contribs)](https://github-readme-stats-istrajis-projects.vercel.app/api?username=istraji&include_all_commits=false&show_icons=true&theme=dracula&hide=stars,contribs)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/unikitsin/">
